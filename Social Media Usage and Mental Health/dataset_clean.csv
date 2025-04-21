@@ -1,0 +1,50 @@
+Age Group,Occupation,Location,Social Media Hours per day,Social Impact,Email Usage,Linkedin Usage,WhatsApp Usage,Most Used Social Media,Mental Impact,Index
+18-25,Student,Urban Area,More than 5 hours,1,Daily,"Yes, actively",Daily,LinkedIn,-1.0,0
+18-25,Student,Urban Area,3-5 hours,0,Never,"No, never",Daily,Others,,1
+18-25,Student,Urban Area,3-5 hours,0,Rarely,Rarely,Daily,Facebook,,2
+18-25,Student,Urban Area,3-5 hours,-1,Never,"No, never",Daily,Facebook,-1.0,3
+18-25,Student,Suburban Area,3-5 hours,1,A few times a week,"Yes, actively",Daily,Facebook,-1.0,4
+18-25,Student,Suburban Area,More than 5 hours,0,Rarely,"Yes, actively",Daily,LinkedIn,1.0,5
+18-25,Student,Rural Area,More than 5 hours,0,Rarely,Rarely,Daily,Instagram,,6
+18-25,Student,Urban Area,3-5 hours,0,A few times a week,Rarely,Daily,Facebook,1.0,7
+18-25,Student,Suburban Area,3-5 hours,1,A few times a week,"No, never",Daily,Facebook,,8
+18-25,Student,Urban Area,More than 5 hours,-1,Rarely,Rarely,A few times a week,Facebook,-1.0,9
+18-25,Student,Rural Area,3-5 hours,-1,Rarely,"No, never",A few times a week,Facebook,-1.0,10
+18-25,Student,Urban Area,3-5 hours,1,Never,"No, never",Daily,Facebook,1.0,11
+18-25,Freelancer,Suburban Area,More than 5 hours,1,A few times a week,"Yes, actively",Daily,Facebook,1.0,12
+18-25,Student,Rural Area,More than 5 hours,-1,A few times a week,Sometimes,Daily,Instagram,,13
+18-25,Student,Rural Area,1-2 hours,1,A few times a week,Sometimes,Daily,Facebook,,14
+18-25,Student,Rural Area,1-2 hours,1,Rarely,"Yes, actively",Daily,Facebook,,15
+18-25,Student,Suburban Area,3-5 hours,0,Rarely,Sometimes,Daily,Facebook,-1.0,16
+18-25,Student,Urban Area,1-2 hours,0,Rarely,"Yes, actively",Daily,Facebook,-1.0,17
+18-25,Student,Urban Area,More than 5 hours,-1,Rarely,"Yes, actively",Daily,Facebook,-1.0,18
+18-25,Student,Urban Area,1-2 hours,-1,Rarely,"No, never",A few times a week,Facebook,-1.0,19
+18-25,Student,Urban Area,3-5 hours,0,Daily,"Yes, actively",Daily,Facebook,,20
+18-25,Student,Rural Area,3-5 hours,0,A few times a week,Sometimes,Daily,Facebook,1.0,21
+18-25,Student,Urban Area,1-2 hours,-1,Daily,Sometimes,Never,Facebook,-1.0,22
+18-25,Student,Rural Area,1-2 hours,-1,A few times a week,Sometimes,Daily,Facebook,-1.0,23
+18-25,Student,Urban Area,More than 5 hours,1,Rarely,"No, never",A few times a week,Facebook,-1.0,24
+18-25,Student,Urban Area,1-2 hours,0,Rarely,"No, never",A few times a week,Instagram,0.0,25
+18-25,Student,Urban Area,1-2 hours,-1,Rarely,Rarely,A few times a week,Instagram,1.0,26
+18-25,Student,Urban Area,3-5 hours,-1,Rarely,"No, never",Daily,Facebook,-1.0,27
+18-25,Student,Rural Area,More than 5 hours,1,Daily,Rarely,Daily,Instagram,1.0,28
+18-25,Student,Suburban Area,1-2 hours,1,Daily,"No, never",Daily,Facebook,0.0,29
+18-25,Student,Urban Area,1-2 hours,1,A few times a week,Sometimes,Daily,Facebook,1.0,30
+18-25,Student,Urban Area,3-5 hours,0,Never,"No, never",Daily,Facebook,,31
+18-25,Student,Rural Area,1-2 hours,0,Daily,"Yes, actively",Daily,Facebook,,32
+18-25,Student,Suburban Area,1-2 hours,0,Rarely,"No, never",Daily,Facebook,-1.0,33
+18-25,Student,Urban Area,1-2 hours,1,Daily,"Yes, actively",Daily,Others,-1.0,34
+18-25,Unemployed,Urban Area,1-2 hours,0,Rarely,Sometimes,A few times a week,Facebook,0.0,35
+18-25,Student,Rural Area,More than 5 hours,1,A few times a week,"No, never",Daily,Facebook,1.0,36
+18-25,Student,Rural Area,3-5 hours,-1,Rarely,"No, never",A few times a week,Facebook,-1.0,37
+18-25,Other,Urban Area,More than 5 hours,0,Never,"No, never",Never,Others,,38
+18-25,Student,Urban Area,3-5 hours,0,Never,"No, never",Daily,Others,,39
+18-25,Student,Rural Area,More than 5 hours,-1,Never,"No, never",Daily,Facebook,-1.0,40
+18-25,Student,Rural Area,1-2 hours,1,A few times a week,Rarely,Daily,Instagram,,41
+18-25,Student,Urban Area,1-2 hours,-1,Daily,"Yes, actively",Daily,Facebook,-1.0,42
+26-40,Employee,Rural Area,More than 5 hours,-1,A few times a week,Rarely,A few times a week,Facebook,-1.0,43
+18-25,Student,Rural Area,3-5 hours,-1,Rarely,Rarely,Daily,Facebook,,44
+18-25,Student,Rural Area,3-5 hours,-1,Rarely,Sometimes,Daily,Facebook,-1.0,45
+18-25,Student,Urban Area,3-5 hours,-1,Rarely,"No, never",Daily,Facebook,-1.0,46
+18-25,Student,Urban Area,More than 5 hours,1,A few times a week,"No, never",Daily,Facebook,-1.0,47
+18-25,Freelancer,Rural Area,Less than 1 hour,0,A few times a week,"Yes, actively",Daily,LinkedIn,-1.0,48
